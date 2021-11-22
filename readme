@@ -1,0 +1,2 @@
+This is a python project whhich uses API. I retrieved API of a NASA website which gives information about the spee and location of a meteor at any given time. 
+We retrieved the API and made an application which can tell you the longitude, latitude and speed of a meteor if a time is inputted.
